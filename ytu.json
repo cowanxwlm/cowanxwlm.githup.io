@@ -1,0 +1,26 @@
+{
+    "platform": "android",
+    "actualPlatform": "android",
+    "template": "default",
+    "buildPath": "./build",
+    "debug": false,
+    "sourceMaps": false,
+    "embedWebDebugger": false,
+    "previewWidth": "1280",
+    "previewHeight": "720",
+    "useDebugKeystore": true,
+    "game": [
+        "Ta0B0B"
+    ],
+    "keystorePath": "",
+    "keystorePassword": "",
+    "keystoreAlias": "",
+    "keystoreAliasPassword": "",
+    "apiLevel": "android-36",
+    "appABIs": [
+        "arm64-v8a",
+        "armeabi-v7a"
+    ],
+    "vsVersion": "auto",
+    "buildScriptsOnly": false
+}
